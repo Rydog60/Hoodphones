@@ -1,0 +1,10 @@
+.Home_Title {
+    font-family: sans-serif;
+    background-color: #c2adeb;
+    padding: 10px;
+    border-left: solid purple 15px;
+    color: #4d4d4d;
+}
+.Home_Slogan {
+    font-family: sans-serif;
+}
